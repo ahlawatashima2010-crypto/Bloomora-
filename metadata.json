@@ -1,0 +1,7 @@
+{
+  "name": "Bloomora",
+  "description": "A premium, eco-friendly plant shopping and care companion app designed to bring nature into your home.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
